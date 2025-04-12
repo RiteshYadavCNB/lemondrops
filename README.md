@@ -29,11 +29,6 @@ Our goal is to empower developers, designers, and indie hackers with beautifully
 npm install lemondrops
 ```
 
-## Contributing
-
-We welcome contributors! Whether you're fixing bugs, adding new components, or improving docs, every bit helps.
-Freshers are highly appreciated. Use the library, if you can contribute, start doing that, copy the source code or fork it, dive deep into it, criticise, rebuild and submit a PR.
-
 ## License
 
 MIT-free for personal & commercial use.
